@@ -6,8 +6,11 @@
 Welcome to Pushmetrics documentation!
 =====================================
 
+Another simple headder!
+======================
+
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
 
