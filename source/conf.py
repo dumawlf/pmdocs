@@ -88,7 +88,7 @@ html_theme = 'sphinx_rtd_theme'
 # documentation.
 #
 html_theme_options = {
-    'html_logo': 'source\logo.png'
+    'html_logo': 'source\_build\html\_static\logo.png'
     
 }
 
