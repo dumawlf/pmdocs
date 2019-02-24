@@ -88,8 +88,9 @@ html_theme = 'sphinx_rtd_theme'
 # documentation.
 #
 html_theme_options = {
-    'html_logo': 'source/_build/html/_static/logo.png',
-    'logo_only': False
+   'logo_only': False,
+   'html_logo': 'images/logo.png'
+
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,

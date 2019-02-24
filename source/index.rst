@@ -8,11 +8,11 @@
 .. toctree::
    :maxdepth: 4
    :caption: Contents:
-   page1
-   page2
+
 
 Welcome to Pushmetrics documedntation!
 =====================================
+.. image:: images/logo.png
 
 Another simple headdedr!
 ======================
