@@ -6,7 +6,7 @@
 Welcome to Pushmetrics documentation!
 =====================================
 
-Another simple header!
+Another simple headder!
 ======================
 
 .. toctree::
