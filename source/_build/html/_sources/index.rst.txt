@@ -3,17 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Pushmetrics documentation!
-=====================================
 
-Another simple headder!
-======================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    :caption: Contents:
+   page1
+   page2
 
+Welcome to Pushmetrics documedntation!
+=====================================
 
+Another simple headdedr!
+======================
 
 Indices and tables
 ==================
