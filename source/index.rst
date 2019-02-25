@@ -5,10 +5,15 @@
 
 
 
+
+
+.. image:: images/logo.png
+
+
 Welcome to Pushmetrics documentation!
 ======================================
+
 .. hint:: test
-.. image:: images/image.png
 
 .. toctree::
    :maxdepth: 2
