@@ -1,0 +1,43 @@
+#######
+How-tos
+#######
+
+Create dataset
+==============
+bla bla bla
+bla bla
+bla
+
+Create chart
+============
+bla bla bla
+bla bla
+bla
+
+Create dashboard
+================
+bla bla bla
+bla bla
+bla
+
+Create basic workflow
+===============
+bla bla bla
+bla bla
+bla
+
+Create SQL conditioned workflow
+===============
+bla bla bla
+bla bla
+bla
+
+Create parametrized workflow
+===============
+bla bla bla
+bla bla
+bla
+
+Use Pushmetrics in Slack
+========================
+

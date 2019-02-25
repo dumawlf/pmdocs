@@ -5,20 +5,52 @@
 
 
 
+Welcome to Pushmetrics documentation!
+======================================
+
 .. toctree::
-   :maxdepth: 4
-   :caption: Contents:
+   :maxdepth: 2
+
+   docs/01_about
+
+.. toctree::
+   :maxdepth: 2
+
+   docs/02_gettingstarted
+
+.. toctree::
+   :maxdepth: 2
+
+   docs/03_howtos
+
+.. toctree::
+   :maxdepth: 2
+
+   docs/04_faq
+
+.. toctree::
+   :maxdepth: 2
+
+   docs/05_troubleshooting
+
+.. toctree::
+   :maxdepth: 2
+
+   docs/06_misc
+
+.. toctree::
+   :maxdepth: 2
+
+   docs/07_releasenotes
 
 
-Welcome to Pushmetrics documedntation!
-=====================================
-.. image:: images/logo.png
+.. image:: logo.png
 
 Another simple headdedr!
-======================
+========================
 
 Indices and tables
-==================
+------------------
 
 * :ref:`genindex`
 * :ref:`modindex`
