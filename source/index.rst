@@ -7,6 +7,8 @@
 
 Welcome to Pushmetrics documentation!
 ======================================
+.. hint:: test
+.. image:: images/image.png
 
 .. toctree::
    :maxdepth: 2
@@ -44,9 +46,9 @@ Welcome to Pushmetrics documentation!
    docs/07_releasenotes
 
 
-.. image:: logo.png
 
-Another simple headdedr!
+
+Another simple headedr!
 ========================
 
 Indices and tables
